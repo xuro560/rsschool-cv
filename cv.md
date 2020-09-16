@@ -8,8 +8,8 @@
 6. 
 7. *Education:*
 * #### Siberian State Automobile and Highway University, Omsk, Russian Federation
-** *Bachelor in Computer science and technology*
+  * *Bachelor in Computer science and technology*
 * #### Almaty State College of Energy and Electronic Technologies, Almaty, Kazakhstan
-** *Management*
+  * *Management*
 
 8. B1
